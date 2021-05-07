@@ -1,4 +1,4 @@
-def main():
+def renamed_function():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
