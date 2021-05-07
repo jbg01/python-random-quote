@@ -8,4 +8,5 @@ def renamed_function():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+#  main()
+  renamed_function()
